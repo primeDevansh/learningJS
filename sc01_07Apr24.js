@@ -1,0 +1,1 @@
+console.log("Hi JS! This is my first JS piece of code.");
