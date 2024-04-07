@@ -1,0 +1,2 @@
+# learningJS
+Storing JavaScript codes.
